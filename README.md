@@ -2,6 +2,8 @@
 
 ## Overview
 
+![Tables](https://prnt.sc/Ws0tuP0X9ryu)
+
 This SQL script creates a unified table inside **Google BigQuery** that consolidates marketing campaign data from three different advertising platforms: Facebook Ads, Google Ads, and TikTok Ads.
 
 ## Dependencies
